@@ -7,4 +7,9 @@ use Illuminate\Http\Request;
 class UserControllers extends Controller
 {
     //
+
+    public function addNew() {
+
+
+    }
 }
